@@ -1,0 +1,28 @@
+{
+  "name": "xiaochan",
+  "version": "0.1.0+codex.20260611121025",
+  "description": "\u5c0f\u7f20 \u2014 \u7f20\u4e2d\u8bf4\u7985\u6280\u672f\u5206\u6790\u4e13\u5bb6\uff0c\u57fa\u4e8e Binance \u884c\u60c5\u6570\u636e\u5bf9\u52a0\u5bc6\u8d27\u5e01\u8fdb\u884c\u7f20\u8bba\u5206\u6790",
+  "author": {
+    "name": "\u5c0f\u7f20"
+  },
+  "license": "MIT",
+  "keywords": [
+    "chan-theory",
+    "crypto",
+    "trading",
+    "technical-analysis"
+  ],
+  "interface": {
+    "displayName": "\u5c0f\u7f20",
+    "shortDescription": "\u7f20\u8bba\u6280\u672f\u5206\u6790\u4e13\u5bb6",
+    "longDescription": "\u5c0f\u7f20\u662f\u4e00\u4e2a\u57fa\u4e8e\u7f20\u4e2d\u8bf4\u7985\u7406\u8bba\u7684\u6280\u672f\u5206\u6790 Agent\u3002\u8986\u76d6\u5206\u578b\u2192\u7b14\u2192\u7ebf\u6bb5\u2192\u4e2d\u67a2\u2192\u8d70\u52bf\u7c7b\u578b\u2192\u80cc\u9a70\u2192\u4e70\u5356\u70b9\u7684\u5b8c\u6574\u5206\u6790\u94fe\u8def\u3002",
+    "developerName": "\u5c0f\u7f20",
+    "category": "Finance",
+    "capabilities": [],
+    "defaultPrompt": [
+      "@\u5c0f\u7f20 BTCUSDT",
+      "@\u5c0f\u7f20 \u626b\u63cf",
+      "@\u5c0f\u7f20 \u590d\u76d8 BTCUSDT"
+    ]
+  }
+}

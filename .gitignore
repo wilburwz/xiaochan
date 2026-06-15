@@ -1,0 +1,22 @@
+﻿# OS / editor
+.vscode/
+Thumbs.db
+Desktop.ini
+
+# Node
+node_modules/
+npm-debug.log*
+package-lock.json
+
+# Logs / local data
+logs/
+*.log
+
+# Local files
+btc_klines.json
+ethusdt_klines.json
+btcusdt_review_reminder.txt
+douyin_page.html
+
+# Large / non-plugin files
+缠中说禅：教你炒股票108课.pdf
